@@ -1,0 +1,28 @@
+Loading intel-compilers-19/19.0.0.117
+  Loading requirement: intel-license gcc/8.2.0 intel-cc-19/19.0.0.117
+    intel-fc-19/19.0.0.117
+automaton: running on 64 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.512663
+Steps = 7680
+Elapsed time per step = 0.000067
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed

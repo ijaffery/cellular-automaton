@@ -1,0 +1,12 @@
+void initialize(int* argc, char*** argv, int* rank, int* size);
+void finalize();
+void create_topology(int nnodes, int ndims, int reorder, int* periods, int* dims, int* size, int* rank, int* coords);
+void create_vectors(int L, int LX, int LY, int master_rank, int rank, int *coords, int*dims);
+void get_neighbours(int direction, int displ, int* master_rank, int* dest);
+void broadcast_integer(int* buf, int count, int root);
+void scatter_integer_array(int rank, int* dims, int** sendbuf, int** recvbuf, int L, int LX, int LY, int master_rank);
+void halo_swap_integer_array(int** buf, int left, int right, int up, int down, int LX, int LY);
+void allreduce_integer_sum(int* sendbuf, int* recvbuf, int count);
+void reduce_integer_sum(int* sendbuf, int* recvbuf, int count, int root);
+void gather_integer_array(int rank, int* dims, int** sendbuf, int** recvbuf, int L, int LX, int LY, int master_rank);
+double get_time_in_s();

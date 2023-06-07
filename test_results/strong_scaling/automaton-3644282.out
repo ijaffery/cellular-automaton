@@ -1,0 +1,1407 @@
+Number of process: 1
+Dims: {1, 1}
+automaton: running on 1 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 12.311132
+Steps = 7680
+Elapsed time per step = 0.001603
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 4
+Dims: {2, 2}
+automaton: running on 4 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 3.704787
+Steps = 7680
+Elapsed time per step = 0.000482
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 8
+Dims: {4, 2}
+automaton: running on 8 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 2.071275
+Steps = 7680
+Elapsed time per step = 0.000270
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 16
+Dims: {4, 4}
+automaton: running on 16 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 1.313274
+Steps = 7680
+Elapsed time per step = 0.000171
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 28
+Dims: {7, 4}
+automaton: running on 28 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.927298
+Steps = 7680
+Elapsed time per step = 0.000121
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 36
+Dims: {6, 6}
+automaton: running on 36 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.759176
+Steps = 7680
+Elapsed time per step = 0.000099
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 57
+Dims: {19, 3}
+automaton: running on 57 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.552149
+Steps = 7680
+Elapsed time per step = 0.000072
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 64
+Dims: {8, 8}
+automaton: running on 64 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.541273
+Steps = 7680
+Elapsed time per step = 0.000070
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 100
+Dims: {10, 10}
+automaton: running on 100 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.466763
+Steps = 7680
+Elapsed time per step = 0.000061
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 144
+Dims: {12, 12}
+automaton: running on 144 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.404364
+Steps = 7680
+Elapsed time per step = 0.000053
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+********************************************************
+Number of process: 1
+Dims: {1, 1}
+automaton: running on 1 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 12.281048
+Steps = 7680
+Elapsed time per step = 0.001599
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 4
+Dims: {2, 2}
+automaton: running on 4 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 3.480639
+Steps = 7680
+Elapsed time per step = 0.000453
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 8
+Dims: {4, 2}
+automaton: running on 8 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 2.078987
+Steps = 7680
+Elapsed time per step = 0.000271
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 16
+Dims: {4, 4}
+automaton: running on 16 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 1.323218
+Steps = 7680
+Elapsed time per step = 0.000172
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 28
+Dims: {7, 4}
+automaton: running on 28 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.926689
+Steps = 7680
+Elapsed time per step = 0.000121
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 36
+Dims: {6, 6}
+automaton: running on 36 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.759799
+Steps = 7680
+Elapsed time per step = 0.000099
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 57
+Dims: {19, 3}
+automaton: running on 57 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.553007
+Steps = 7680
+Elapsed time per step = 0.000072
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 64
+Dims: {8, 8}
+automaton: running on 64 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.542137
+Steps = 7680
+Elapsed time per step = 0.000071
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 100
+Dims: {10, 10}
+automaton: running on 100 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.468903
+Steps = 7680
+Elapsed time per step = 0.000061
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 144
+Dims: {12, 12}
+automaton: running on 144 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.385626
+Steps = 7680
+Elapsed time per step = 0.000050
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+********************************************************
+Number of process: 1
+Dims: {1, 1}
+automaton: running on 1 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 12.313760
+Steps = 7680
+Elapsed time per step = 0.001603
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 4
+Dims: {2, 2}
+automaton: running on 4 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 3.446718
+Steps = 7680
+Elapsed time per step = 0.000449
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 8
+Dims: {4, 2}
+automaton: running on 8 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 2.108836
+Steps = 7680
+Elapsed time per step = 0.000275
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 16
+Dims: {4, 4}
+automaton: running on 16 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 1.316894
+Steps = 7680
+Elapsed time per step = 0.000171
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 28
+Dims: {7, 4}
+automaton: running on 28 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.932806
+Steps = 7680
+Elapsed time per step = 0.000121
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 36
+Dims: {6, 6}
+automaton: running on 36 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.758067
+Steps = 7680
+Elapsed time per step = 0.000099
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 57
+Dims: {19, 3}
+automaton: running on 57 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.553512
+Steps = 7680
+Elapsed time per step = 0.000072
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 64
+Dims: {8, 8}
+automaton: running on 64 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.542584
+Steps = 7680
+Elapsed time per step = 0.000071
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 100
+Dims: {10, 10}
+automaton: running on 100 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.469393
+Steps = 7680
+Elapsed time per step = 0.000061
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 144
+Dims: {12, 12}
+automaton: running on 144 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.404201
+Steps = 7680
+Elapsed time per step = 0.000053
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+********************************************************
+Number of process: 1
+Dims: {1, 1}
+automaton: running on 1 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 12.284265
+Steps = 7680
+Elapsed time per step = 0.001600
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 4
+Dims: {2, 2}
+automaton: running on 4 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 3.478293
+Steps = 7680
+Elapsed time per step = 0.000453
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 8
+Dims: {4, 2}
+automaton: running on 8 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 2.078710
+Steps = 7680
+Elapsed time per step = 0.000271
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 16
+Dims: {4, 4}
+automaton: running on 16 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 1.304441
+Steps = 7680
+Elapsed time per step = 0.000170
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 28
+Dims: {7, 4}
+automaton: running on 28 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.931328
+Steps = 7680
+Elapsed time per step = 0.000121
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 36
+Dims: {6, 6}
+automaton: running on 36 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.762829
+Steps = 7680
+Elapsed time per step = 0.000099
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 57
+Dims: {19, 3}
+automaton: running on 57 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.553773
+Steps = 7680
+Elapsed time per step = 0.000072
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 64
+Dims: {8, 8}
+automaton: running on 64 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.539707
+Steps = 7680
+Elapsed time per step = 0.000070
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 100
+Dims: {10, 10}
+automaton: running on 100 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.467511
+Steps = 7680
+Elapsed time per step = 0.000061
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 144
+Dims: {12, 12}
+automaton: running on 144 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.376956
+Steps = 7680
+Elapsed time per step = 0.000049
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+********************************************************
+Number of process: 1
+Dims: {1, 1}
+automaton: running on 1 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 12.276117
+Steps = 7680
+Elapsed time per step = 0.001598
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 4
+Dims: {2, 2}
+automaton: running on 4 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 3.461687
+Steps = 7680
+Elapsed time per step = 0.000451
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 8
+Dims: {4, 2}
+automaton: running on 8 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 2.056938
+Steps = 7680
+Elapsed time per step = 0.000268
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 16
+srun: Job 3644282 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 3644282
+Dims: {4, 4}
+automaton: running on 16 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 1.306111
+Steps = 7680
+Elapsed time per step = 0.000170
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 28
+Dims: {7, 4}
+automaton: running on 28 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.954525
+Steps = 7680
+Elapsed time per step = 0.000124
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 36
+Dims: {6, 6}
+automaton: running on 36 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.760188
+Steps = 7680
+Elapsed time per step = 0.000099
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 57
+Dims: {19, 3}
+automaton: running on 57 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.557590
+Steps = 7680
+Elapsed time per step = 0.000073
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 64
+Dims: {8, 8}
+automaton: running on 64 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.542543
+Steps = 7680
+Elapsed time per step = 0.000071
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 100
+Dims: {10, 10}
+automaton: running on 100 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.468617
+Steps = 7680
+Elapsed time per step = 0.000061
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+Number of process: 144
+Dims: {12, 12}
+automaton: running on 144 process(es)
+automaton: system_size = 768, rho = 0.490000, seed = 1234, maxstep = 7680
+automaton: rho = 0.490000, live cells = 289513, actual density = 0.490846
+automaton: number of live cells = 270463 & number of changed cells = 18875 on step 500
+automaton: number of live cells = 269187 & number of changed cells = 13093 on step 1000
+automaton: number of live cells = 268589 & number of changed cells = 10828 on step 1500
+automaton: number of live cells = 266992 & number of changed cells = 9598 on step 2000
+automaton: number of live cells = 267732 & number of changed cells = 8674 on step 2500
+automaton: number of live cells = 266945 & number of changed cells = 7938 on step 3000
+automaton: number of live cells = 265976 & number of changed cells = 7300 on step 3500
+automaton: number of live cells = 265334 & number of changed cells = 7086 on step 4000
+automaton: number of live cells = 263583 & number of changed cells = 6332 on step 4500
+automaton: number of live cells = 263154 & number of changed cells = 6012 on step 5000
+automaton: number of live cells = 260828 & number of changed cells = 5629 on step 5500
+automaton: number of live cells = 260681 & number of changed cells = 5504 on step 6000
+automaton: number of live cells = 260244 & number of changed cells = 5135 on step 6500
+automaton: number of live cells = 260918 & number of changed cells = 4974 on step 7000
+automaton: number of live cells = 262849 & number of changed cells = 4669 on step 7500
+Elapsed time = 0.407781
+Steps = 7680
+Elapsed time per step = 0.000053
+cellwritedynamic: opening file <cell.pbm>
+cellwritedynamic: writing data ...
+cellwritedynamic: ... done
+cellwritedynamic: file closed
+====================================================
+********************************************************
